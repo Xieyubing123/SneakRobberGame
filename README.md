@@ -13,7 +13,7 @@
     will displayer different content each !!!
 
 ## Youtube Trailer video Link
-    https://www.youtube.com/watch?v=91rKPY8-DF0&index=1&list=PLvhWUQw6L-BUyH9WPqSGZA2IP78ldxFsD
+https://www.youtube.com/watch?v=91rKPY8-DF0&index=1&list=PLvhWUQw6L-BUyH9WPqSGZA2IP78ldxFsD
 
 ## DownLoad:
 
