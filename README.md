@@ -4,7 +4,7 @@
 
 ## Warning!!! 
 
-    You must need **two** Monitor and **Three** Xbox controller to play 
+    You must need *two* Monitor and **Three** Xbox controller to play 
     this game, otherwise, you cannot continue and pass the start screen.
     Also, when you connect to the second monitor, you need to set to 
     **Extend display mode** to play this game, otherwise you can only 
@@ -49,10 +49,10 @@
     start the game.
 
 ## Input Device and Control button:
-You need and must to plug in **Three** Xbox 360 controllers
-You need to use two monitor and set to extend display mode.
-(for windows user, right click on the desktop and select display setting and find the 
-Dislay extend this monitor (not duplicate))
+    You need and must to plug in **Three** Xbox 360 controllers
+    You need to use two monitor and set to extend display mode.
+    (for windows user, right click on the desktop and select display setting and find the 
+    Dislay extend this monitor (not duplicate))
 
 
 
