@@ -4,7 +4,7 @@
 
 ## Warning!!! 
 
-    You must need two Monitor and Three Xbox controller to play 
+    You must need two Monitors and Three Xbox controllers to play 
     this game, otherwise, you cannot continue and pass the start screen.
     Also, when you connect to the second monitor, you need to set to 
     Extend display mode to play this game, otherwise you can only 
